@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>الحريرة المغربية</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header><h1>الحريرة المغربية</h1></header>
+  <main class="recipe">
+    <img src="images/harira.jpg" alt="الحريرة المغربية" class="hero">
+
+    <section>
+      <h2>المكونات</h2>
+      <ul>
+        <li>عدس، حمص منقوع، طماطم مطحونة</li>
+        <li>قطع لحم صغيرة أو دجاج</li>
+        <li>كرفس، بصل، قزبر ومعدنوس</li>
+        <li>طحين مذاب بالماء لتكثيف القوام</li>
+        <li>توابل: زنجبيل، فلفل، كركم</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>طريقة التحضير</h2>
+      <ol>
+        <li>يُطهى اللحم مع البصل والتوابل في قدر.</li>
+        <li>تُضاف الطماطم، العدس، والحمص ويُترك حتى ينضج.</li>
+        <li>يُضاف خليط الطحين تدريجياً للحصول على قوام كثيف.</li>
+        <li>تُقدّم الحريرة ساخنة مع التمر أو الشباكية.</li>
+      </ol>
+    </section>
+
+    <section>
+      <h2>الوقت</h2>
+      <p>⏱ التحضير: 20 دقيقة | الطهي: 40 دقيقة</p>
+    </section>
+
+    <section>
+      <h2>نصائح التقديم</h2>
+      <p>تُقدّم غالباً في رمضان، وتُزيَّن بالقزبر الطازج وعصير الليمون.</p>
+    </section>
+
+    <p style="text-align:center;"><a href="index.html" style="color:#b30000;">⬅ الرجوع للصفحة الرئيسية</a></p>
+  </main>
+  <footer><p>© 2025 المطبخ المغربي</p></footer>
+</body>
+</html>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>الكسكس المغربي</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header><h1>الكسكس المغربي</h1></header>
+  <main class="recipe">
+    <img src="images/couscous.jpg" alt="الكسكس المغربي" class="hero">
+
+    <section>
+      <h2>المكونات</h2>
+      <ul>
+        <li>500غ سميد الكسكس</li>
+        <li>قطع لحم أو دجاج</li>
+        <li>خضر متنوعة (جزر، كوسة، قرع، حمص...)</li>
+        <li>زيت الزيتون، ملح، فلفل أسود، كركم</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>طريقة التحضير</h2>
+      <ol>
+        <li>يُطهى اللحم مع التوابل والحمص.</li>
+        <li>تُضاف الخضر ويُترك الخليط حتى ينضج.</li>
+        <li>يُبخر الكسكس ثلاث مرات حتى يصبح رطباً وطرياً.</li>
+        <li>يُقدّم مع المرق والخضر فوقه.</li>
+      </ol>
+    </section>
+
+    <section>
+      <h2>الوقت</h2>
+      <p>⏱ التحضير: 30 دقيقة | الطهي: 60 دقيقة</p>
+    </section>
+
+    <section>
+      <h2>نصائح التقديم</h2>
+      <p>قدّمه مزيناً بالحمص والقرع، ويفضل يوم الجمعة!</p>
+    </section>
+
+    <p style="text-align:center;"><a href="index.html" style="color:#b30000;">⬅ الرجوع للصفحة الرئيسية</a></p>
+  </main>
+  <footer><p>© 2025 المطبخ المغربي</p></footer>
+</body>
+</html>

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>الطاجين المغربي</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>الطاجين المغربي</h1>
+  </header>
+
+  <main class="recipe">
+    <img src="images/tajine.jpg" alt="الطاجين المغربي" class="hero">
+
+    <section>
+      <h2>المكونات</h2>
+      <ul>
+        <li>قطع لحم أو دجاج</li>
+        <li>بصل، ثوم، طماطم</li>
+        <li>زيت الزيتون، كركم، زنجبيل، ملح، فلفل</li>
+        <li>زيتون وليمون مصير للتزيين</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>طريقة التحضير</h2>
+      <ol>
+        <li>يتبل اللحم بالتوابل ويُترك قليلاً ليتشرب النكهة.</li>
+        <li>يُقلى البصل والثوم في زيت الزيتون.</li>
+        <li>تُضاف قطع اللحم والطماطم ويُطهى الكل ببطء.</li>
+        <li>يُقدم مزينًا بالزيتون والليمون المصير.</li>
+      </ol>
+    </section>
+
+    <section>
+      <h2>وقت التحضير والطهي</h2>
+      <p>⏱ التحضير: 20 دقيقة | الطهي: 55 دقيقة</p>
+    </section>
+
+    <section>
+      <h2>نصائح التقديم</h2>
+      <p>يُقدّم الطاجين مع خبز مغربي ساخن وليمون طري.</p>
+    </section>
+
+    <p style="text-align:center; margin-top:20px;">
+      <a href="index.html" style="color:#b30000;">⬅ الرجوع للصفحة الرئيسية</a>
+    </p>
+  </main>
+
+  <footer>
+    <p>© 2025 المطبخ المغربي</p>
+  </footer>
+</body>
+</html>
